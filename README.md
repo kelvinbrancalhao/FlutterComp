@@ -1,2 +1,4 @@
 # FlutterComp
-Repository to Dump all the small projects made in flutter
+
+Dump de estudo sobre flutter, cada projeto tem sua pasta separada.
+
